@@ -1,2 +1,2 @@
 # featured-json
-A powerful tool for editing JSON files.
+Link: https://featured508.github.io/featured-json/
